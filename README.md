@@ -1,5 +1,8 @@
 # vuetify-todo
 
+## Introduction: 
+ Designed a task management application using Vuetify and Vue.js with a focus on interactive UI and efficient task categorization and prioritization.
+
 ## Project setup
 ```
 npm install
